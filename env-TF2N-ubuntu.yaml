@@ -1,0 +1,19 @@
+name: TF2N
+channels:
+  - conda-forge
+  - nvidia
+  - pytorch
+dependencies:
+  - python
+  - pip
+  - tensorflow == 2.15
+  - keras
+  - pydoe2
+  - numpy
+  - pandas
+  - matplotlib-base
+  - plotly
+  - scipy
+  - pip:
+      - sobol-seq
+
