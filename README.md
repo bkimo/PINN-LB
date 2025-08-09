@@ -113,7 +113,6 @@ If you use this code in your research, please cite our paper:
     author={Lee, DooSeok and Choi, Yuncherl and Kim, Bong-Sik},
     journal={Results in Applied Mathematics},
     volume={27},
-    pages={100619},
     year={2025},
     publisher={Elsevier},
     doi={10.1016/j.rinam.2025.100619}
