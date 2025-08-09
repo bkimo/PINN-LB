@@ -10,7 +10,7 @@ This repository contains the implementation of Physics-Informed Neural Networks 
 
 *Journal:* Results in Applied Mathematics, Volume 27 (2025), Article 100619
 
-**📖 [Read the full paper](https://www.sciencedirect.com/science/article/pii/S2590037425000109)**
+**📖 [Read the full paper](https://www.sciencedirect.com/science/article/pii/S2590037425000834?via%3Dihub)**
 
 ## 🔬 Abstract
 
@@ -108,7 +108,7 @@ PINN-LB/
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{lee2025parameter,
+@article{kim2025parameter,
     title={Parameter estimation and adaptive solution of the Leray-Burgers equation using physics-informed neural networks},
     author={Lee, DooSeok and Choi, Yuncherl and Kim, Bong-Sik},
     journal={Results in Applied Mathematics},
